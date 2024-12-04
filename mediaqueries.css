@@ -52,6 +52,13 @@
     .about-containers {
         margin-top: 0;
     }
+    .project-img {
+        display: none;
+    }
+
+    .article-container p {
+        display: none;
+    }
 
     /* MEU =================================*/
     img.about-pic {
@@ -126,6 +133,14 @@
      .text-container {
         text-align: justify;
      }
+
+     .project-img {
+        display: none;
+    }
+
+    .article-container p {
+        display: none;
+    }
 
      /* MEU =================================*/
     img.about-pic {
