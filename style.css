@@ -215,6 +215,7 @@ section {
 .title {
     font-size: 3rem;
     text-align: center;
+    color: white;
 }
 
 #socials-container {
@@ -347,6 +348,7 @@ section {
     margin-bottom: 2rem;
 }
 
+
 .experience-details-container {
     display: flex;
     justify-content: center;
@@ -360,6 +362,10 @@ section {
     flex-direction: row;
     gap: 2.5rem;
     justify-content: space-around;
+}
+
+.article-container article div h3 {
+    color: white;
 }
 
 article {
@@ -389,7 +395,7 @@ article .icon {
 
 .project-title {
     margin: 1rem;
-    color: black;
+    color: white;
 }
 
 .project-btn {
