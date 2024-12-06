@@ -62,13 +62,13 @@ nav {
 }
 
 a {
-    color: black;
+    color: #444;
     text-decoration: none;
     text-decoration-color: white;
 }
 
 a:hover {
-    color: grey;
+    color: white;
     text-decoration: underline;
     text-underline-offset: 1rem;
     text-decoration-color: rgb(181, 181, 181);
@@ -127,7 +127,7 @@ a:hover {
     padding: 10px;
     text-align: center;
     font-size: 1.5rem;
-    color: black;
+    color: #444;
     text-decoration: none;
     transition: all .3s ease-in-out;
 }
@@ -247,6 +247,7 @@ section {
     border-radius: 2rem;
 }
 
+
 .btn-color-1, .btn-color-2 {
     border: rgb(53, 53, 53) 0.1rem solid;
 }
@@ -273,6 +274,7 @@ section {
 
 .btn-color-2 {
     background: none;
+    color: white;
 }
 
 .btn-color-2:hover {
